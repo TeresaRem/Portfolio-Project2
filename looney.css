@@ -1,0 +1,46 @@
+
+.container {
+    height: 100px;
+    background-color: #E1393E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Risque", sans-serif;
+    font-size: 50px;
+    color: #FFD51F;
+    
+    
+}
+
+#get-data {
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: center;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgshare.io%2Fimages%2F2019%2F07%2F10%2F3133fd17c5e4d090-blue-color-background-animated-gifs-photobucket.gif&f=1&nofb=1");
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+#hidden {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+    text-align: center;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgshare.io%2Fimages%2F2019%2F07%2F10%2F3133fd17c5e4d090-blue-color-background-animated-gifs-photobucket.gif&f=1&nofb=1");
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+.navbar {
+    justify-content:center;
+    align-items:baseline;
+}
+
+div {
+    font-family: "Risque", sans-serif;
+}
